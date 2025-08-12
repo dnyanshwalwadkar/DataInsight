@@ -5,4 +5,4 @@ google-generativeai
 reportlab
 python-pptx
 openpyxl
-kaleido
+kaleido==0.2.1
